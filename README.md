@@ -6,7 +6,7 @@ Whether you're preparing for internships, building projects, or strengthening yo
 
 ---
 
-## 🎯 **What Will You Learn?**
+##  **What Will You Learn?**
 - What OOP really means  
 - Why companies expect OOP knowledge  
 - 4 pillars of OOP (Encapsulation, Abstraction, Inheritance, Polymorphism)  
@@ -18,11 +18,11 @@ Whether you're preparing for internships, building projects, or strengthening yo
 
 ---
 
-# 🗓️ **2-Week OOP Roadmap**
+## **2-Week OOP Roadmap**
 
 ---
 
-## **📌 Week 1 — Foundations + Core Concepts**
+## ** Week 1 — Foundations + Core Concepts**
 
 ### **Day 1–2: Introduction to OOP**
 - What is OOP?  
@@ -87,7 +87,7 @@ Whether you're preparing for internships, building projects, or strengthening yo
 
 ---
 
-# **📌 Week 2 — Advanced Concepts + Application**
+## ** Week 2 — Advanced Concepts + Application**
 
 ### **Day 8–9: Inheritance + Polymorphism Deep Dive**
 - Function overloading  
@@ -155,7 +155,7 @@ Build small projects:
 
 ---
 
-# ⭐ Additional Recommended Resources
+## Additional Recommended Resources
 
 ### 📘 PDF Notes  
 - OOP Notes by GFG: https://www.geeksforgeeks.org/category/oops/  
