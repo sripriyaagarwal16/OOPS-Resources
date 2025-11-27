@@ -1,4 +1,4 @@
-# 🚀 Object-Oriented Programming (OOP) — Complete 2-Week Learning Plan
+## Object-Oriented Programming (OOP) — Complete 2-Week Learning Plan
 
 Welcome to the **OOP Mastery Plan** — a beginner-friendly, structured roadmap to learn the foundations of Object-Oriented Programming with the best FREE resources on the internet.
 
